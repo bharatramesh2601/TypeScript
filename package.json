@@ -1,0 +1,23 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "If you are here to learn and use TypeScript you are at the perfect place",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bharatramesh2601/TypeScript.git"
+  },
+  "author": "Bharat Ramesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bharatramesh2601/TypeScript/issues"
+  },
+  "homepage": "https://github.com/bharatramesh2601/TypeScript#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
